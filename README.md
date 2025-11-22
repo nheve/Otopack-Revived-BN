@@ -7,12 +7,12 @@ All the music previously found in Kenan's fork was **removed** due to unknown co
 ## Installation
 **1)** Press the **Code** button and then [`Download ZIP`](https://github.com/nheve/Otopack-Revived-BN/archive/refs/heads/master.zip);
 
-**2)** Unpack the zip archive, then put the entire "OtopackRevivedBN" folder inside of `cbn/data/sound/`directory, or if you are using Catapult launcher, put the folder inside of `Catapult/bn/userdata/sound/` directory;
+**2)** Unpack the zip archive, then put the entire "Otopack+ModsUpdates" folder inside of `cbn/data/sound/`directory, or if you are using Catapult launcher, put the folder inside of `Catapult/bn/userdata/sound/` directory;
 
 **3)** Launch the game and enable the soundpack in the `settings` of the game;
 
 ## Updating the soundpack
-Simply download source code of latest release, erase older version of "Otopack-Revived-BN" in your game folder, put source code of my uploaded, updated soundpack release inside of `cbn/data/sound/` directory (or `Catapult/bn/userdata/sound/` for Catapult launcher), enjoy the soundpack :)
+Simply download source code of latest release, erase older version of "Otopack+ModsUpdates" in your game folder, put source code of my uploaded, updated soundpack release inside of `cbn/data/sound/` directory (or `Catapult/bn/userdata/sound/` for Catapult launcher), enjoy the soundpack :)
 
 ## Links and credits
 Original Otopack creator: https://discourse.cataclysmdda.org/u/survival_man/summary  
