@@ -1,2 +1,2 @@
-NAME: otopack
-VIEW: Otopack
+NAME: otopack-revived-bn
+VIEW: Otopack Revived BN
